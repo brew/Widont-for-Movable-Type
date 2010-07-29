@@ -1,7 +1,7 @@
 ﻿Widon't for Movable Type
 http://www.lowest-common-denominator.com/2006/08/widont_for_movable_type.php
 
-Brook Elgie, 2006-2008 <hi@lowest-common-denominator.com>
+Brook Elgie, 2006-2008
 Version 1.4
 
 Widon't for Movable Type is based on Shaun Inman's Widon't for Wordpress
